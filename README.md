@@ -1,47 +1,66 @@
 # urop-2019Fall
 pytorch
+
 1.pybind11 create Python bindings of existing C++ code
 https://github.com/pybind/pybind11
 
 2.cub  provide reusable software components for every layer of the CUDA programming model
 https://github.com/pybind/pybind11
+
 3.eigen  for linear algebra computation
 https://github.com/pybind/pybind11 
+
 4．Google test: A merger of the formerly separate GoogleTest and GoogleMock projects.
 https://github.com/google/googletest
+
 5.benchmark: Benchmark code snippets 
 https://github.com/google/benchmark.git
+
 6.protobuf:  Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
 https://github.com/protocolbuffers/protobuf
+
 7. ios-cmake
 https://github.com/Yangqing/ios-cmake
+
 8.NNPACK: an acceleration package for neural network computations.
 https://github.com/Maratyszcza/NNPACK.git
+
 9.gloo: a collective communications library which contains a number of algorithms useful for machine learning.
 https://github.com/facebookincubator/gloo
+
 10. pthreadpool: is a pthread-based thread pool implementation,
 https://github.com/Maratyszcza/pthreadpool.git
+
 11.FXdiv division via fixed-point multiplication by inverse
 https://github.com/Maratyszcza/FXdiv
+
 12.FP16: conversion to/from half-precision floating point formats
 https://github.com/Maratyszcza/FP16
+
 13.psimd: Portable 128-bit SIMD intrinsics
 https://github.com/Maratyszcza/psimd
+
 14.zstd：a fast lossless compression algorithm
 https://github.com/facebook/zstd.git
+
 15. cpuinfo:  detect essential for performance optimization information about host CPU.
 https://github.com/pytorch/cpuinfo.git
 
 
 16.enum34
 https://github.com/PeachPy/enum34
+
 17.peachpy: a python framework for writing high-performance assembly kernels.
 https://github.com/Maratyszcza/PeachPy.git
+
 18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions https://github.com/benjaminp/six
+
 19.ONNX:empower AI developers to choose the right tool as their project evolves.
 https://github.com/onnx/onnx
+
 20.sleef:  functions for evaluating some elementary functions are implemented. The library also includes DFT subroutines.
 https://github.com/shibatch/sleef
+
 21.Ideep Chainer Backend for Intel Architecture, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN
 https://github.com/intel/ideep
 
