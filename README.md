@@ -7,11 +7,11 @@ https://github.com/pybind/pybind11
 
 2.cub  provide reusable software components for every layer of the CUDA programming model
 
-https://github.com/pybind/pybind11
+https://github.com/NVlabs/cub.git
 
 3.eigen  for linear algebra computation
 
-https://github.com/pybind/pybind11 
+https://github.com/eigenteam/eigen-git-mirror.git
 
 4．Google test: A merger of the formerly separate GoogleTest and GoogleMock projects.
 
