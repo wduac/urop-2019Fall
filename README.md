@@ -1,69 +1,72 @@
 # urop-2019Fall
 pytorch
 
-1.pybind11 create Python bindings of existing C++ code
+1.pybind11     
+call c++
 
-https://github.com/pybind/pybind11
+https://github.com/pybind/pybind11      
 
-2.cub  provide reusable software components for every layer of the CUDA programming model
+2.cub  :provide reusable software components for every layer of the CUDA programming model
+used for CUDA
 
 https://github.com/NVlabs/cub.git
 
-3.eigen  for linear algebra computation
+3.eigen 
+mathematic computation
 
 https://github.com/eigenteam/eigen-git-mirror.git
 
 4．Google test: A merger of the formerly separate GoogleTest and GoogleMock projects.
-
+for Google c++ test
 https://github.com/google/googletest
 
 5.benchmark: Benchmark code snippets 
-
+for test(like Google test）
 https://github.com/google/benchmark.git
 
 6.protobuf:  Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
-
+Google's data interchange format
 https://github.com/protocolbuffers/protobuf
 
 7. ios-cmake
-
+compil
 https://github.com/Yangqing/ios-cmake
 
 8.NNPACK: an acceleration package for neural network computations.
-
+CNN computation
 https://github.com/Maratyszcza/NNPACK.git
 
 9.gloo: a collective communications library which contains a number of algorithms useful for machine learning.
-
+machine learning algorithm
 https://github.com/facebookincubator/gloo
 
 10. pthreadpool: is a pthread-based thread pool implementation,
-
+job schedule
 https://github.com/Maratyszcza/pthreadpool.git
 
 11.FXdiv division via fixed-point multiplication by inverse
-
+mathematical computation
 https://github.com/Maratyszcza/FXdiv
 
 12.FP16: conversion to/from half-precision floating point formats
-
+mathematical computation
 https://github.com/Maratyszcza/FP16
 
 13.psimd: Portable 128-bit SIMD intrinsics
-
+???
 https://github.com/Maratyszcza/psimd
 
 14.zstd：a fast lossless compression algorithm
-
+compression algorithm
 https://github.com/facebook/zstd.git
 
 15. cpuinfo:  detect essential for performance optimization information about host CPU.
-
+cpu detection
 https://github.com/pytorch/cpuinfo.git
 
 
 16.enum34
-
+python type
 https://github.com/PeachPy/enum34
 
 17.peachpy: a python framework for writing high-performance assembly kernels.
