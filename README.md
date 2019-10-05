@@ -3,49 +3,57 @@ pytorch
 
 1.pybind11     
 call c++
-
+version:25abf7e
 https://github.com/pybind/pybind11      
 
 2.cub  :provide reusable software components for every layer of the CUDA programming model
 used for CUDA
-
+version:285aeeb
 https://github.com/NVlabs/cub.git
 
 3.eigen 
 mathematic computation
-
+version:d41dc4d
 https://github.com/eigenteam/eigen-git-mirror.git
 
 4．Google test: A merger of the formerly separate GoogleTest and GoogleMock projects.
 for Google c++ test
+version:2fe3bd9
 https://github.com/google/googletest
 
 5.benchmark: Benchmark code snippets 
 for test(like Google test）
+version:505be96
 https://github.com/google/benchmark.git
 
 6.protobuf:  Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
 Google's data interchange format
+48cb18e
 https://github.com/protocolbuffers/protobuf
 
 7. ios-cmake
 compil
+8abaed6
 https://github.com/Yangqing/ios-cmake
 
 8.NNPACK: an acceleration package for neural network computations.
 CNN computation
+c039579
 https://github.com/Maratyszcza/NNPACK.git
 
 9.gloo: a collective communications library which contains a number of algorithms useful for machine learning.
 machine learning algorithm
+ca528e3
 https://github.com/facebookincubator/gloo
 
 10. pthreadpool: is a pthread-based thread pool implementation,
 job schedule
+13da0b4
 https://github.com/Maratyszcza/pthreadpool.git
 
 11.FXdiv division via fixed-point multiplication by inverse
 mathematical computation
+b742d11
 https://github.com/Maratyszcza/FXdiv
 
 12.FP16: conversion to/from half-precision floating point formats
