@@ -70,39 +70,39 @@ python type
 https://github.com/PeachPy/enum34
 
 17.peachpy: a python framework for writing high-performance assembly kernels.
-
+assembly framework
 https://github.com/Maratyszcza/PeachPy.git
 
-18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions 
-
+18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions
+write code for diff python version 
 https://github.com/benjaminp/six
 
 19.ONNX:empower AI developers to choose the right tool as their project evolves.
-
+Ai model
 https://github.com/onnx/onnx
 
 20.sleef:  functions for evaluating some elementary functions are implemented. The library also includes DFT subroutines.
-
+math computation
 https://github.com/shibatch/sleef
 
 21.Ideep Chainer Backend for Intel Architecture, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN
-
+deep learning framework 
 https://github.com/intel/ideep
 
 22.nccl. A standard collective communication library
-
+for gpu
 https://github.com/NVIDIA/nccl
 
 23.gemmlowp. Do matrix computations.
-
+mathematical compputation
 https://github.com/google/gemmlowp.git
 
 24.qnnpack. mobile-optimized library for low-precision high-performance neural network inferenc
-
+provide NN operation for framework
 https://github.com/pytorch/QNNPACK
 
 25.fbgemm. For matrix multiplication(Facebook)
-
+Mathematical computation
 https://github.com/pytorch/fbgemm
 
 26.foxi:Onnxifi with Facebook extension
@@ -114,7 +114,7 @@ https://github.com/houseroad/foxi.git
 https://github.com/01org/tbb
 
 28.fbjni. Facebook developed library.
-
+Facebook
 https://github.com/IvanKobzarev/fbjni.git
 
 
