@@ -3,7 +3,7 @@ pytorch
 
 1.pybind11     
 call c++
-version:25abf7e/n
+version:25abf7e
 https://github.com/pybind/pybind11      
 
 2.cub  :provide reusable software components for every layer of the CUDA programming model
@@ -62,69 +62,104 @@ https://github.com/Maratyszcza/FP16
 
 13.psimd: Portable 128-bit SIMD intrinsics
 ???
+febbb1c
 https://github.com/Maratyszcza/psimd
 
 14.zstd：a fast lossless compression algorithm
 compression algorithm
+aec56a5
 https://github.com/facebook/zstd.git
 
 15. cpuinfo:  detect essential for performance optimization information about host CPU.
 cpu detection
+89fe169
 https://github.com/pytorch/cpuinfo.git
 
 
 16.enum34
 python type
+4cfedc4
 https://github.com/PeachPy/enum34
 
 17.peachpy: a python framework for writing high-performance assembly kernels.
 assembly framework
+07d8fde
 https://github.com/Maratyszcza/PeachPy.git
 
 18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions
 write code for diff python version 
+15e3143
 https://github.com/benjaminp/six
 
 19.ONNX:empower AI developers to choose the right tool as their project evolves.
 Ai model
+2891e14
 https://github.com/onnx/onnx
 
 20.sleef:  functions for evaluating some elementary functions are implemented. The library also includes DFT subroutines.
 math computation
+7f523de
 https://github.com/shibatch/sleef
 
 21.Ideep Chainer Backend for Intel Architecture, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN
 deep learning framework 
+78eafa5
 https://github.com/intel/ideep
 
 22.nccl. A standard collective communication library
 for gpu
+no version
 https://github.com/NVIDIA/nccl
 
 23.gemmlowp. Do matrix computations.
-mathematical compputation
+mathematical computation
 https://github.com/google/gemmlowp.git
 
-24.qnnpack. mobile-optimized library for low-precision high-performance neural network inferenc
+24.qnnpack. mobile-optimized library for low-precision high-performance neural network inference
 provide NN operation for framework
+7d2a4e9
 https://github.com/pytorch/QNNPACK
 
 25.fbgemm. For matrix multiplication(Facebook)
 Mathematical computation
+266b453
 https://github.com/pytorch/fbgemm
 
 26.foxi:Onnxifi with Facebook extension
-
+8f74bc4
 https://github.com/houseroad/foxi.git
 
 27.tbb. Help write parallel c++ programs
-
+a51a90b
 https://github.com/01org/tbb
 
 28.fbjni. Facebook developed library.
 Facebook
+no version
 https://github.com/IvanKobzarev/fbjni.git
 
+pytorch classification:
+
+1.Mathematical computation:
+eigen,FXdiv,FP16,sleef,gemmlowp,fbgemm,
+
+2.test
+Google test,benchmark
+
+3.compile
+ios-cmake,peachpy
+
+4.compression at zlib level
+zstd
+
+5.relate c++
+pybind11,Google test,tbb
+
+6.cpu,gpu
+cub,NNPACK,cpuinfo
+
+7.ML,Dl algorithm and model
+gloo,ONNX,Ideep Chainer
 
 
 Tensorflow（used by TF， compiled by bazel）
