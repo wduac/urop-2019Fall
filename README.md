@@ -3,7 +3,7 @@ pytorch
 
 1.pybind11     
 call c++
-version:25abf7e
+version:25abf7e\n
 https://github.com/pybind/pybind11      
 
 2.cub  :provide reusable software components for every layer of the CUDA programming model
