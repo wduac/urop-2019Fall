@@ -1,94 +1,111 @@
 # urop-2019Fall
-pytorch
+pytorch (latest:1.2.0)
+latest master -> 1.2.0 -> 1.1.0 -> 1.0.1 -> 1.0.0 -> 1.0rc1 -> 1.0rc0 -> 0.4.1 -> 0.4.0
 
 1.pybind11     
 call c++
-version:25abf7e
+version:    25abf7e(latest)
+-> 5c8746f(v1.0.1) ->  add56cc(v0.4.1) 
 https://github.com/pybind/pybind11      
 
 2.cub  :provide reusable software components for every layer of the CUDA programming model
 used for CUDA
-version:285aeeb
+version:285aeeb(all versions)
+
 https://github.com/NVlabs/cub.git
 
 3.eigen 
 mathematic computation
-version:d41dc4d
+version:d41dc4d(v1.2.0)
+-> b8fa8f5(v1.1.0) -> f59336c(v1.0.1) -> cafae68(v1.0rc1) -> e9e9548(v0.4.1) -> 5a0ab9f(v0.4.0)
 https://github.com/eigenteam/eigen-git-mirror.git
 
 4．Google test: A merger of the formerly separate GoogleTest and GoogleMock projects.
 for Google c++ test
-version:2fe3bd9
+version:2fe3bd9(v1.2.0)
+-> 69e48e9(v0.4.1)
 https://github.com/google/googletest
 
 5.benchmark: Benchmark code snippets 
 for test(like Google test）
-version:505be96
+version:505be96(v1.2.0)
+-> 491360b(v0.4.0)
 https://github.com/google/benchmark.git
 
 6.protobuf:  Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
 Google's data interchange format
-48cb18e
+version: 48cb18e(v1.2.0)
+-> 2761122(v1.0.1) 
 https://github.com/protocolbuffers/protobuf
 
 7. ios-cmake
 compil
-8abaed6
+version: 8abaed6(v1.2.0)(all versions)
+
 https://github.com/Yangqing/ios-cmake
 
 8.NNPACK: an acceleration package for neural network computations.
 CNN computation
-c039579
+version: c039579(v1.2.0)
+-> 1e005b0(v1.0.1) -> af40ea7(v1.0rc1) -> 3eb0d45(v0.4.1) -> b63fe1b(v0.4.0)
 https://github.com/Maratyszcza/NNPACK.git
 
 9.gloo: a collective communications library which contains a number of algorithms useful for machine learning.
 machine learning algorithm
-ca528e3
+version:ca528e3(latest)
+-> 46ae6ec(v1.2.0) -> 670b4d4(v1.1.0) -> cdeb59d(v1.0.0) -> aa0d2e3(v1.0rc1) -> 69eef74(v0.4.1) -> aad0002(v0.4.0)
+
 https://github.com/facebookincubator/gloo
 
 10. pthreadpool: is a pthread-based thread pool implementation,
 job schedule
-13da0b4
+version: 13da0b4(latest)
+-> 2b06b31(v1.0rv1)
 https://github.com/Maratyszcza/pthreadpool.git
 
 11.FXdiv division via fixed-point multiplication by inverse
 mathematical computation
-b742d11
+version: b742d11(latest)
+-> 811b482(v1.0rc1) 
 https://github.com/Maratyszcza/FXdiv
 
 12.FP16: conversion to/from half-precision floating point formats
 mathematical computation
+version:febbb1c(latest)
+-> 34d4bf0(v1.0.1) -> 4b37bd3(v1.0rc1) -> 43d6d17(v0.4.1)
 https://github.com/Maratyszcza/FP16
 
 13.psimd: Portable 128-bit SIMD intrinsics
 ???
-febbb1c
+version: 90a938f(latest)
+-> 4ac61b1(v1.0rc1)
 https://github.com/Maratyszcza/psimd
 
 14.zstd：a fast lossless compression algorithm
 compression algorithm
-aec56a5
+version: aec56a5(all versions)
 https://github.com/facebook/zstd.git
 
 15. cpuinfo:  detect essential for performance optimization information about host CPU.
 cpu detection
-89fe169
+version:89fe169(latest)
+-> c342292(v1.0.0) -> 4e8f043(v1.0rc1) -> 1e6c8c9(v0.4.1) -> 831dc28(v0.4.0)
 https://github.com/pytorch/cpuinfo.git
 
 
-16.enum34
+16.python-enum34
 python type
-4cfedc4
+version: 4cfedc4(all versions)
 https://github.com/PeachPy/enum34
 
-17.peachpy: a python framework for writing high-performance assembly kernels.
+17.python-peachpy: a python framework for writing high-performance assembly kernels.
 assembly framework
-07d8fde
+version: 07d8fde(all versions)
 https://github.com/Maratyszcza/PeachPy.git
 
 18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions
 write code for diff python version 
-15e3143
+version: 15e3143
 https://github.com/benjaminp/six
 
 19.ONNX:empower AI developers to choose the right tool as their project evolves.
