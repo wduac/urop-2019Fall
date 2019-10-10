@@ -103,57 +103,62 @@ assembly framework
 version: 07d8fde(all versions)
 https://github.com/Maratyszcza/PeachPy.git
 
-18.six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions
+18.python-six: It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions
 write code for diff python version 
-version: 15e3143
+version: 15e3143(all version)
 https://github.com/benjaminp/six
 
 19.ONNX:empower AI developers to choose the right tool as their project evolves.
 Ai model
-2891e14
+version: 2891e14(latest version)
+-> 28ca699(v1.2.0) -> 22662bf(v1.1.0) -> 4280470(v1.0.1) -> c4734c6(v1.0rc1) -> b2817a6(v0.4.1) -> 7e1bed5(v0.4.0)
 https://github.com/onnx/onnx
 
 20.sleef:  functions for evaluating some elementary functions are implemented. The library also includes DFT subroutines.
 math computation
-7f523de
+version:7f523de(latest version)
+-> 9b249c5(v1.2.0) -> 191f655(v1.1.0) -> 6ff7a13(v1.0.1 until v0.4.1)  v0.4.0 hasn't sleef 
 https://github.com/shibatch/sleef
 
-21.Ideep Chainer Backend for Intel Architecture, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN
+21.Ideep :Chainer Backend for Intel Architecture, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN
 deep learning framework 
-78eafa5
+version: 78eafa5(latest version)
+-> 0316184 (v1.2.0) -> 3a98675(v1.1.0) -> 7b8f9d0(v1.0.1) -> dedff8f(v1.0.0) -> 4bd9a68(v0.4.1) v0.4.0 hasn't Ideep
 https://github.com/intel/ideep
 
 22.nccl. A standard collective communication library
 for gpu
-no version
+version: 7c72dee(latest version)
+-> 1450d42(v1.1.0) -> 3c6e252(v1.0.1)  cannot see previous version ID 
 https://github.com/NVIDIA/nccl
 
 23.gemmlowp. Do matrix computations.
 mathematical computation
+version: 3fb5c17(latest version)
+-> 8416bab(v1.1.0)  first appear in v1.0.0
 https://github.com/google/gemmlowp.git
 
 24.qnnpack. mobile-optimized library for low-precision high-performance neural network inference
 provide NN operation for framework
-7d2a4e9
+7d2a4e9(latest version)
+-> 6c62fdd(v1.2.0) ->ef05e87(v1.0.1)  first appear in v1.0.0
 https://github.com/pytorch/QNNPACK
 
 25.fbgemm. For matrix multiplication(Facebook)
 Mathematical computation
-266b453
+version:266b453(latest version)
+-> f712cb2(v1.2.0) ->6ec218e(v1.1.0) -> 7933330(v1.0.1) -> 0d5a159(v1.0.0)   first appear in v1.0.0
 https://github.com/pytorch/fbgemm
 
 26.foxi:Onnxifi with Facebook extension
-8f74bc4
+version: 8f74bc4(latest version ----  v1.1.0)
 https://github.com/houseroad/foxi.git
 
 27.tbb. Help write parallel c++ programs
-a51a90b
+version: a51a90b(latest version ----- v1.2.0)
 https://github.com/01org/tbb
 
-28.fbjni. Facebook developed library.
-Facebook
-no version
-https://github.com/IvanKobzarev/fbjni.git
+
 
 pytorch classification:
 
